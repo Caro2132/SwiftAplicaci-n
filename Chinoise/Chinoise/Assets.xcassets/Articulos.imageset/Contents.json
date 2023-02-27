@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "60829712-vector-conjunto-de-artículos-de-papelería.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
